@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Colors",
+  "base_artist": "Halsey",
+  "createdAt": "2026-03-04T10:01:51.386558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Coat of Many Colors",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/01_Coat_of_Many_Colors_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Coat of Many Colors",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/02_Coat_of_Many_Colors_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Coat of Many Colors",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/03_Coat_of_Many_Colors_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Coat of Many Colors (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/04_Coat_of_Many_Colors_(Remastered_LP_Version)_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "True Colors",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/05_True_Colors_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Different Colors",
+      "artist": "Yung Bans feat. Lil Yachty",
+      "has_synced": true,
+      "path": "select/06_Different_Colors_Yung_Bans_feat._Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Different Colors (feat. Lil Yachty)",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/07_Different_Colors_(feat._Lil_Yachty)_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "... Of Love And Colors",
+      "artist": "Lisa Germano",
+      "has_synced": true,
+      "path": "select/08_..._Of_Love_And_Colors_Lisa_Germano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All the Colors of the Dark",
+      "artist": "Marissa Nadler",
+      "has_synced": false,
+      "path": "select/09_All_the_Colors_of_the_Dark_Marissa_Nadler.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Coat of Many Colors",
+      "artist": "Mike",
+      "has_synced": true,
+      "path": "select/10_Coat_of_Many_Colors_Mike.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In the Colors",
+      "artist": "Ben Harper",
+      "has_synced": false,
+      "path": "select/11_In_the_Colors_Ben_Harper.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Think It Is Beautiful That You Are 256 Colors Too",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/12_I_Think_It_Is_Beautiful_That_You_Are_256_Colors_Too_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Think It Is Beautiful That You Are 256 Colors Too",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": true,
+      "path": "select/13_I_Think_It_Is_Beautiful_That_You_Are_256_Colors_Too_Black_Moth_Super_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Favorite Colors",
+      "artist": "Animal Collective",
+      "has_synced": true,
+      "path": "select/14_My_Favorite_Colors_Animal_Collective.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Colors",
+      "artist": "Halsey",
+      "has_synced": false,
+      "path": "select/pl_01_Colors_Halsey.txt"
+    }
+  ]
+}
